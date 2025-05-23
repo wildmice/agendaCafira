@@ -8,7 +8,7 @@ Route::get('/', function () {
 });
 
 
-Route::get('/agendas', [AgendasController::class, 'agenda']);
+Route::get('/agendas', [AgendasController::class, 'agendas']);
 
 Route::get('/agenda/create', function () {
     return view('agenda.create');

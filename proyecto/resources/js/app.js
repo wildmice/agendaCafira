@@ -12,6 +12,7 @@ const app = createApp({});
 
 // Aquí puedes registrar tus componentes Vue globales si los tienes
 // app.component('example-component', ExampleComponent);
+app.component('Logo', {});
 
 // Montar la aplicación Vue en el elemento con el ID "app"
 app.mount('#app');

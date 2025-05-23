@@ -7,7 +7,7 @@
 </head>
 <body>
 
-    <h2> Agendas Cafira </h2>
+    <h2> Agenda Cafira </h2>
     
 </body>
 </html>
